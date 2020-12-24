@@ -2,7 +2,7 @@
 
 ![](./cover.png)  
 <details>
-<summary style="cursor:pointer; color:brown; font-size:25px;"> 총 93 문제  </summary>
+<summary style="cursor:pointer;"> 총 93 문제  </summary>
 <div markdown="1">
 
 |장	    |문제	|링크|소스코드|
@@ -104,7 +104,16 @@
 </div>
 </details>
 
-# **목차**    
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+## *-목차-*    
 지은이의 글  
   
 ## 1부 문제 해결 시작하기  
