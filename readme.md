@@ -8,7 +8,7 @@
 |장	    |문제	|링크|소스코드|
 |-------|-------|----|-------|
 |1장|	록 페스티벌|	[FESTIVAL](http://algospot.com/judge/problem/read/FESTIVAL)||
-|6장|	보글 게임|	[BOGGLE](http://algospot.com/judge/problem/read/BOGGLE)|[BOGGLE.cpp](./6장_무식하게_풀기/6_3_BOGGLE.cpp) / [BOGGLE.py](./6장_무식하게_풀기/6_3_BOGGLE.cpp)
+|6장|	보글 게임|	[BOGGLE](http://algospot.com/judge/problem/read/BOGGLE)|[BOGGLE.cpp](./6/6_3_BOGGLE.cpp) / [BOGGLE.py](./6/6_3_BOGGLE.cpp)
 |6장|	소풍	|[PICNIC](http://algospot.com/judge/problem/read/PICNIC)|
 |6장|	게임판 덮기	|[BOARDCOVER](http://algospot.com/judge/problem/read/BOARDCOVER)|
 |6장|	시계 맞추기	|[CLOCKSYNC](http://algospot.com/judge/problem/read/CLOCKSYNC)|
@@ -316,11 +316,11 @@
 -개관  
   
 #### 16장 비트마스크  
--16.1 [도입](./mds/16.1.md)  
--16.2 [비트마스크를 이용한 집합의 구현](./mds/16.2.md)  
--16.3 [비트마스크의 응용 예제](./mds/16.3.md)    
--16.4 [문제: 졸업 학기 (문제 ID: GRADUATION, 난이도: 중)](./mds/16.4.md)  
--16.5 풀이: 졸업 학기  
+-16.1 [도입](./mds/16/16.1.md)  
+-16.2 [비트마스크를 이용한 집합의 구현](./mds/16/16.2.md)  
+-16.3 [비트마스크의 응용 예제](./mds/16/16.3.md)    
+-16.4 [문제: 졸업 학기 (문제 ID: GRADUATION, 난이도: 중)](./mds/16/16.4.md)  
+-16.5 [풀이: 졸업 학기](./mds/16/16.5.md)
 -16.6 더 읽을거리  
   
 #### 17장 부분 합  
