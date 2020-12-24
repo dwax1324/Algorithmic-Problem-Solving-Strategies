@@ -116,10 +116,10 @@
 
 
 ## *-목차-*  
-
-지은이의 글  
-  
-## 1부 문제 해결 시작하기  
+<details>
+<summary style="cursor:pointer; font-size:25px; font-weight:700">
+1부 문제 해결 시작하기  
+</summary>
 -개관  
   
 #### 1장 문제 해결과 프로그래밍 대회  
@@ -144,8 +144,14 @@
 -3.5 변수 범위의 이해  
 -3.6 실수 자료형의 이해(optional)  
 -3.7 더 읽을 거리  
-  
-## 2부 알고리즘 분석  
+
+</details>
+
+<details>
+<summary style="cursor:pointer; font-size:25px; font-weight:700">
+2부 알고리즘 분석  
+</summary>
+
 개관  
   
 #### 4장 알고리즘의 시간 복잡도 분석  
@@ -164,7 +170,7 @@
 -5.3 귀류법  
 -5.4 다른 기술들  
 -5.5 더 읽을 거리  
-  
+</details>
 ## 3부 알고리즘 설계 패러다임  
 -개관  
   
