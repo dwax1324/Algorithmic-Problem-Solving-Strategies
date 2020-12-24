@@ -1,9 +1,9 @@
 프로그래밍 대회에서 배우는 알고리즘 문제 해결 전략 정리
 
 ![](./cover.png)  
-
-총 93 문제  
-
+<details>
+<summary style="cursor:pointer; color:brown"> 총 93 문제  </summary>
+<div markdown="1">
 
 |장	    |문제	|링크|소스코드|
 |-------|-------|----|-------|
@@ -101,6 +101,8 @@
 |32장|	국책 사업	|준비중입니다|
 |32장|	함정 설치	|[TRAPCARD](http://algospot.com/judge/problem/read/TRAPCARD)|
 
+</div>
+</details>
 
 # **목차**    
 지은이의 글  
