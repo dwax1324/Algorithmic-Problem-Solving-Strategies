@@ -2,7 +2,7 @@
 
 ![](./cover.png)  
 <details>
-<summary style="cursor:pointer; color:brown"> 총 93 문제  </summary>
+<summary style="cursor:pointer; color:brown; font-size:25px;"> 총 93 문제  </summary>
 <div markdown="1">
 
 |장	    |문제	|링크|소스코드|
