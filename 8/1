@@ -1,0 +1,21 @@
+cnoreabbrev ff :!g++ -std=c++2a '%' && ./a.out
+set mouse=a
+set autowrite
+set hlsearch
+set nu rnu
+set autoindent
+set ts=4
+set sts=4
+set cindent
+set laststatus=2
+set shiftwidth=4
+set showmatch
+set smartcase
+set smarttab
+set smartindent
+set ruler
+set fileencodings=utf8,euc-kr
+if has("syntax")
+	syntax on
+endif
+:autocmd BufNewFile  *.cpp 0r ~/.vim/template.cpp | norm :strftime('// date: %c') 

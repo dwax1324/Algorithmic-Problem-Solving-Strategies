@@ -117,7 +117,7 @@
 
 ## *-목차-*  
 <details>
-<summary style="cursor:pointer; font-size:25px; font-weight:700">
+<summary style="cursor:pointer;">
 1부 문제 해결 시작하기  
 </summary>
 -개관  
@@ -148,7 +148,7 @@
 </details>
 
 <details>
-<summary style="cursor:pointer; font-size:25px; font-weight:700">
+<summary style="cursor:pointer;">
 2부 알고리즘 분석  
 </summary>
 
@@ -330,13 +330,13 @@
 -17.4 더 공부할 거리  
   
 #### 18장 선형 자료 구조  
--18.1 도입  
--18.2 동적 배열  
--18.3 연결 리스트  
--18.4 동적 배열과 연결 리스트의 비교  
--18.5 문제: 조세푸스 문제 (문제 ID: JOSEPHUS, 난이도: 하)  
--18.6 풀이: 조세푸스 문제  
--18.7 더 읽을 거리  
+-18.1 [도입](./mds/18/18.1.md)  
+-18.2 [동적 배열](./mds/18/18.2.md)  
+-18.3 [연결 리스트](./mds/18/18.3.md)  
+-18.4 [동적 배열과 연결 리스트의 비교](./mds/18/18.4.md)  
+-18.5 [문제: 조세푸스 문제 (문제 ID: JOSEPHUS, 난이도: 하)](./mds/18/18.5.md)  
+-18.6 [풀이: 조세푸스 문제](./mds/18/18.6.md)  
+-18.7 [더 읽을 거리](./mds/18/18.7.md)  
   
 #### 19장 큐와 스택, 데크  
 -19.1 도입  

@@ -2,7 +2,6 @@
 
 // 학생의 수와 친구의 정보가 주어졌을 때,
 // 친구끼리로만 짝지을 수 있는 경우의 수?
-
 // 문제 주소
 // https://www.algospot.com/judge/problem/read/PICNIC
 
